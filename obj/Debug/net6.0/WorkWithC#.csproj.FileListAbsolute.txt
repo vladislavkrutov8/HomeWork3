@@ -1,0 +1,5 @@
+C:\git\WorkWithC#\obj\Debug\net6.0\WorkWithC#.csproj.AssemblyReference.cache
+C:\git\WorkWithC#\obj\Debug\net6.0\WorkWithC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\WorkWithC#\obj\Debug\net6.0\WorkWithC#.AssemblyInfoInputs.cache
+C:\git\WorkWithC#\obj\Debug\net6.0\WorkWithC#.AssemblyInfo.cs
+C:\git\WorkWithC#\obj\Debug\net6.0\WorkWithC#.csproj.CoreCompileInputs.cache

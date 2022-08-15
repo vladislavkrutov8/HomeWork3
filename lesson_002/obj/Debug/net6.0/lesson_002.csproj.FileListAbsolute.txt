@@ -1,0 +1,15 @@
+C:\git\WorkWithC#\lesson_002\bin\Debug\net6.0\lesson_002.exe
+C:\git\WorkWithC#\lesson_002\bin\Debug\net6.0\lesson_002.deps.json
+C:\git\WorkWithC#\lesson_002\bin\Debug\net6.0\lesson_002.runtimeconfig.json
+C:\git\WorkWithC#\lesson_002\bin\Debug\net6.0\lesson_002.dll
+C:\git\WorkWithC#\lesson_002\bin\Debug\net6.0\lesson_002.pdb
+C:\git\WorkWithC#\lesson_002\obj\Debug\net6.0\lesson_002.csproj.AssemblyReference.cache
+C:\git\WorkWithC#\lesson_002\obj\Debug\net6.0\lesson_002.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\WorkWithC#\lesson_002\obj\Debug\net6.0\lesson_002.AssemblyInfoInputs.cache
+C:\git\WorkWithC#\lesson_002\obj\Debug\net6.0\lesson_002.AssemblyInfo.cs
+C:\git\WorkWithC#\lesson_002\obj\Debug\net6.0\lesson_002.csproj.CoreCompileInputs.cache
+C:\git\WorkWithC#\lesson_002\obj\Debug\net6.0\lesson_002.dll
+C:\git\WorkWithC#\lesson_002\obj\Debug\net6.0\refint\lesson_002.dll
+C:\git\WorkWithC#\lesson_002\obj\Debug\net6.0\lesson_002.pdb
+C:\git\WorkWithC#\lesson_002\obj\Debug\net6.0\lesson_002.genruntimeconfig.cache
+C:\git\WorkWithC#\lesson_002\obj\Debug\net6.0\ref\lesson_002.dll
