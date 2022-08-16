@@ -1,0 +1,15 @@
+C:\git\WorkWithC#\HomeWork_3\Task_23\obj\Debug\net6.0\Task_23.csproj.AssemblyReference.cache
+C:\git\WorkWithC#\HomeWork_3\Task_23\obj\Debug\net6.0\Task_23.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\WorkWithC#\HomeWork_3\Task_23\obj\Debug\net6.0\Task_23.AssemblyInfoInputs.cache
+C:\git\WorkWithC#\HomeWork_3\Task_23\obj\Debug\net6.0\Task_23.AssemblyInfo.cs
+C:\git\WorkWithC#\HomeWork_3\Task_23\obj\Debug\net6.0\Task_23.csproj.CoreCompileInputs.cache
+C:\git\WorkWithC#\HomeWork_3\Task_23\bin\Debug\net6.0\Task_23.exe
+C:\git\WorkWithC#\HomeWork_3\Task_23\bin\Debug\net6.0\Task_23.deps.json
+C:\git\WorkWithC#\HomeWork_3\Task_23\bin\Debug\net6.0\Task_23.runtimeconfig.json
+C:\git\WorkWithC#\HomeWork_3\Task_23\bin\Debug\net6.0\Task_23.dll
+C:\git\WorkWithC#\HomeWork_3\Task_23\bin\Debug\net6.0\Task_23.pdb
+C:\git\WorkWithC#\HomeWork_3\Task_23\obj\Debug\net6.0\Task_23.dll
+C:\git\WorkWithC#\HomeWork_3\Task_23\obj\Debug\net6.0\refint\Task_23.dll
+C:\git\WorkWithC#\HomeWork_3\Task_23\obj\Debug\net6.0\Task_23.pdb
+C:\git\WorkWithC#\HomeWork_3\Task_23\obj\Debug\net6.0\Task_23.genruntimeconfig.cache
+C:\git\WorkWithC#\HomeWork_3\Task_23\obj\Debug\net6.0\ref\Task_23.dll
